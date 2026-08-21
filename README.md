@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is ... and I'm a ..., from ....</p>
+<p data-importer="text" align="left">My name is Annes and I'm a Fullstack-Programmer, from Germany</p>
 
 ###
 
