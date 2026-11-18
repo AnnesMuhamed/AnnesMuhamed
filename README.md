@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p data-importer="text" align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning backend development with Python, Django and Django REST Framework at the Developer Akademie<br>🎯 Goals: Becoming a full-stack developer who builds clean APIs as confidently as beautiful frontends<br>🎲 Fun fact: I started as a frontend developer and now I finally know what happens after I click "Send".</p>
 
 ###
 
